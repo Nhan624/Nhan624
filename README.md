@@ -51,9 +51,9 @@
 					 │                                              │ 
 					 ┣─ Contact ───────────────────────┓            │ 
 					 │ ┏───────────────────────────────┛            │ 
-					 │ ┣─── Website [<b><a href="#">Nguyễn Thanh Thiên</a></b>]                │ 
-					 │ ┣────── Mail [<b><a href="nguyenthanhthien@astems.co.kr">nguyenthanhthien@astems.co.kr</a></b>]             │ 
-					 │ ┗──── Book a [<b><a href="https://github.com/astemsThien/astemsThien">DevThien</a></b>]                       │ 
+					 │ ┣─── Website [<b><a href="#">Nguyễn Tri Nhân</a></b>]                │ 
+					 │ ┣────── Mail [<b><a href="ntrinhan0602@gmail.com">ntrinhan0602@gmail.com</a></b>]             │ 
+					 │ ┗──── Book a [<b><a href="https://github.com/Nhan624/Nhan624">Nhan_Design</a></b>]                       │ 
 					 ┗───┓                                          │ 
  					    │  ┏────────────────────────────────┓  ┏───┛ 
  					    ┗──┫ █████████████████████████▓▒░░░ ┣──┛     
